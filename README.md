@@ -40,16 +40,16 @@ The program followed a structured week-by-week curriculum covering real-world AI
 
 | Week | Module | Topics Covered | Notebook |
 |------|--------|---------------|----------|
-| Week 1 | **Program Neural Networks with TensorFlow** | Machine learning fundamentals, new programming paradigm, CNNs for image recognition & classification, computer vision problems |(#) |
-| Week 2 | **Get Started with Object Detection** | Object detection basics, integrating pretrained detectors into mobile apps | (#) |
-| Week 3 | **Go Further with Object Detection** | Training custom object-detection models using TensorFlow Lite & Model Maker library |(#) |
-| Week 4 | **Get Started with Product Image Search** | Building a product image search feature for mobile apps using on-device Object Detection | (#) |
-| Week 5 | **Get Started with Product Image Search (Advanced)** | Detecting objects in static images & live camera feeds on Android for visual product search |(#) |
-| Week 6 | **Go Further with Product Image Search** | Building and calling a product image search backend from a mobile app | (#) |
-| Week 7 | **Go Further with Image Classification** | Building custom image-classification models, advanced classification techniques | (#) |
-| Week 8 | **Go Further with Image Classification (Advanced)** | Creating a custom image classifier and integrating it into an Android app | (#) |
-| Week 9 | **Assessment** | Final hands-on evaluation | — |
-| Week 10 | **Final Credential Validation** | Credential verification & certification | — |
+| Week 1 | **Program Neural Networks with TensorFlow** | Machine learning fundamentals, new programming paradigm, CNNs for image recognition & classification, computer vision problems 
+| Week 2 | **Get Started with Object Detection** | Object detection basics, integrating pretrained detectors into mobile apps
+| Week 3 | **Go Further with Object Detection** | Training custom object-detection models using TensorFlow Lite & Model Maker library 
+| Week 4 | **Get Started with Product Image Search** | Building a product image search feature for mobile apps using on-device Object Detection 
+| Week 5 | **Get Started with Product Image Search (Advanced)** | Detecting objects in static images & live camera feeds on Android for visual product search 
+| Week 6 | **Go Further with Product Image Search** | Building and calling a product image search backend from a mobile app 
+| Week 7 | **Go Further with Image Classification** | Building custom image-classification models, advanced classification techniques 
+| Week 8 | **Go Further with Image Classification (Advanced)** | Creating a custom image classifier and integrating it into an Android app 
+| Week 9 | **Assessment** | Final hands-on evaluation 
+| Week 10 | **Final Credential Validation** | Credential verification & certification 
 
 > 💡 *Replace the `#` links above with your actual Google Colab notebook URLs.*
 
@@ -141,9 +141,9 @@ Special thanks to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjul-tiwari21)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranjul2121)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranjult21@gmail.com)
 
 </div>
 

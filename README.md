@@ -40,14 +40,14 @@ The program followed a structured week-by-week curriculum covering real-world AI
 
 | Week | Module | Topics Covered | Notebook |
 |------|--------|---------------|----------|
-| Week 1 | **Program Neural Networks with TensorFlow** | Machine learning fundamentals, new programming paradigm, CNNs for image recognition & classification, computer vision problems | [📓 Open Notebook](#) |
-| Week 2 | **Get Started with Object Detection** | Object detection basics, integrating pretrained detectors into mobile apps | [📓 Open Notebook](#) |
-| Week 3 | **Go Further with Object Detection** | Training custom object-detection models using TensorFlow Lite & Model Maker library | [📓 Open Notebook](#) |
-| Week 4 | **Get Started with Product Image Search** | Building a product image search feature for mobile apps using on-device Object Detection | [📓 Open Notebook](#) |
-| Week 5 | **Get Started with Product Image Search (Advanced)** | Detecting objects in static images & live camera feeds on Android for visual product search | [📓 Open Notebook](#) |
-| Week 6 | **Go Further with Product Image Search** | Building and calling a product image search backend from a mobile app | [📓 Open Notebook](#) |
-| Week 7 | **Go Further with Image Classification** | Building custom image-classification models, advanced classification techniques | [📓 Open Notebook](#) |
-| Week 8 | **Go Further with Image Classification (Advanced)** | Creating a custom image classifier and integrating it into an Android app | [📓 Open Notebook](#) |
+| Week 1 | **Program Neural Networks with TensorFlow** | Machine learning fundamentals, new programming paradigm, CNNs for image recognition & classification, computer vision problems |(#) |
+| Week 2 | **Get Started with Object Detection** | Object detection basics, integrating pretrained detectors into mobile apps | (#) |
+| Week 3 | **Go Further with Object Detection** | Training custom object-detection models using TensorFlow Lite & Model Maker library |(#) |
+| Week 4 | **Get Started with Product Image Search** | Building a product image search feature for mobile apps using on-device Object Detection | (#) |
+| Week 5 | **Get Started with Product Image Search (Advanced)** | Detecting objects in static images & live camera feeds on Android for visual product search |(#) |
+| Week 6 | **Go Further with Product Image Search** | Building and calling a product image search backend from a mobile app | (#) |
+| Week 7 | **Go Further with Image Classification** | Building custom image-classification models, advanced classification techniques | (#) |
+| Week 8 | **Go Further with Image Classification (Advanced)** | Creating a custom image classifier and integrating it into an Android app | (#) |
 | Week 9 | **Assessment** | Final hands-on evaluation | — |
 | Week 10 | **Final Credential Validation** | Credential verification & certification | — |
 

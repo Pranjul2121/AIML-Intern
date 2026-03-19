@@ -51,7 +51,7 @@ The program followed a structured week-by-week curriculum covering real-world AI
 | Week 9 | **Assessment** | Final hands-on evaluation 
 | Week 10 | **Final Credential Validation** | Credential verification & certification 
 
-> 💡 *Replace the `#` links above with your actual Google Colab notebook URLs.*
+
 
 ---
 

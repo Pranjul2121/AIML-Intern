@@ -78,34 +78,6 @@ The program followed a structured week-by-week curriculum covering real-world AI
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 AICTE-EduSkills-AI-ML-Internship
-├── 📂 Week1_Neural_Networks_TensorFlow/
-│   └── week1_neural_networks.ipynb
-├── 📂 Week2_Object_Detection_Basics/
-│   └── week2_object_detection.ipynb
-├── 📂 Week3_Custom_Object_Detection/
-│   └── week3_custom_object_detection.ipynb
-├── 📂 Week4_Product_Image_Search/
-│   └── week4_product_image_search.ipynb
-├── 📂 Week5_Product_Image_Search_Advanced/
-│   └── week5_visual_product_search.ipynb
-├── 📂 Week6_Image_Search_Backend/
-│   └── week6_image_search_backend.ipynb
-├── 📂 Week7_Image_Classification/
-│   └── week7_image_classification.ipynb
-├── 📂 Week8_Custom_Image_Classifier/
-│   └── week8_custom_classifier.ipynb
-├── 📂 certificates/
-│   ├── Internship_Offer_Letter.pdf
-│   └── AI_ML_Virtual_Internship_Certificate.pdf
-└── README.md
-```
-
----
-
 ## 🏆 Certificate & Credentials
 
 <div align="center">

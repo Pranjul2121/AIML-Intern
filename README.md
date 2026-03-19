@@ -38,8 +38,8 @@ The program followed a structured week-by-week curriculum covering real-world AI
 
 ## 🗓️ Weekly Curriculum & Work
 
-| Week | Module | Topics Covered | Notebook |
-|------|--------|---------------|----------|
+| Week | Module | Topics Covered |
+|------|--------|---------------|
 | Week 1 | **Program Neural Networks with TensorFlow** | Machine learning fundamentals, new programming paradigm, CNNs for image recognition & classification, computer vision problems 
 | Week 2 | **Get Started with Object Detection** | Object detection basics, integrating pretrained detectors into mobile apps
 | Week 3 | **Go Further with Object Detection** | Training custom object-detection models using TensorFlow Lite & Model Maker library 
